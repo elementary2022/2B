@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2024-02-27T17:22:27.999Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Pyz45lrO7eDNEVoRch-1" version="23.1.7" type="github">
+  <diagram name="Page-1" id="9Snr-VpGQPahIGfTxzfm">
+    <mxGraphModel dx="954" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mmajRjKfkMnc6jmYxmtX-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="80" width="240" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="mmajRjKfkMnc6jmYxmtX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="200" width="240" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="mmajRjKfkMnc6jmYxmtX-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF0080;strokeColor=#FF0080;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="160" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="mmajRjKfkMnc6jmYxmtX-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="360" width="240" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="mmajRjKfkMnc6jmYxmtX-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="320" y="360" width="320" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="mmajRjKfkMnc6jmYxmtX-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#999999;fillColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="50" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mmajRjKfkMnc6jmYxmtX-7" value="乔治的苹果数量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="150" y="30" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mmajRjKfkMnc6jmYxmtX-8" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#999999;fillColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="170" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mmajRjKfkMnc6jmYxmtX-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#999999;fillColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="330" width="560" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mmajRjKfkMnc6jmYxmtX-10" value="佩奇的苹果数量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="230" y="150" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mmajRjKfkMnc6jmYxmtX-11" value="佩奇比乔治多12个苹果" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#999999;fillColor=#007FFF;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="320" y="220" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mmajRjKfkMnc6jmYxmtX-12" value="妈妈比乔治多24个苹果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="410" y="400" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mmajRjKfkMnc6jmYxmtX-13" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#999999;fillColor=#007FFF;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="320" y="380" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mmajRjKfkMnc6jmYxmtX-14" value="妈妈的苹果数量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="310" y="310" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mmajRjKfkMnc6jmYxmtX-15" value="乔治、佩奇、妈妈一共有90个苹果&lt;br&gt;佩奇比乔治多12个苹果&lt;br&gt;妈妈比乔治多24个苹果&lt;br&gt;&lt;br&gt;那么，乔治、佩奇、妈妈分别是多少个苹果?&lt;br&gt;&lt;br&gt;乔治 + 佩奇 + 妈妈 = 90&lt;br&gt;也就是&lt;br&gt;蓝色 + 蓝色 + 红色 + 蓝色 + 橙色 = 90&lt;br&gt;两边都减去红色和橙色，所以&lt;br&gt;蓝色 + 蓝色 + 红色 + 蓝色 + 橙色 - 红色 - 橙色 = 90 - 红色 - 橙色&lt;br&gt;&lt;br&gt;3 * 蓝色 = 90 - 12 - 24&lt;br&gt;3 * 蓝色 = 54&lt;br&gt;蓝色 = 18&lt;br&gt;&lt;br&gt;所以乔治 18个苹果，佩奇30个苹果，妈妈42个苹果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="80" y="480" width="560" height="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
