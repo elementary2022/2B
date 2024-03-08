@@ -39,7 +39,9 @@ The Shanghai Museum is famous for its large collection of cultural pieces, and i
 上海博物馆以其丰富的文化藏品而闻名，被认为是中国最重要的博物馆之一。
 
 It is designed in the shape of an ancient bronze cooking vessel called a "ding," symbolizing the ancient Chinese perception of the world as "round sky, square earth."
+
 该博物馆的设计形状类似于古代青铜炊具“鼎”，象征着中国古代对世界的理解为“天圆地方”。
 
 Overall, the Shanghai Museum offers a fascinating exploration of ancient Chinese art and culture, making it a must-visit destination for both locals and tourists.
+
 总的来说，上海博物馆提供了对古代中国艺术和文化的引人入胜的探索，使其成为本地人和游客必去的目的地。
